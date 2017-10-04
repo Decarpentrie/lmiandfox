@@ -1,0 +1,142 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+	background-image:linear-gradient(to left, white, rgba(192, 192, 192, 0.46));
+	}
+
+footer {
+	background-image:linear-gradient(to left, white, rgba(192, 192, 192, 0.46));
+}
+
+.logoHead {
+	width:15% 
+}
+
+.btn{
+	position: fixed;
+	left: 92%;
+	top: 91%;
+	cursor: pointer;
+	background-color: rgba(0,0,0, 0.45); 
+	border-radius: 12px;
+}
+
+.btn:hover{
+	background-color: rgba(177, 172, 172, 0.68);
+}
+
+#materialbox-overlay{
+	background-color: rgba(8, 8, 8, 0.65);
+}
+
+h3 {
+	font-family: 'Crimson Text', serif;
+	font-size: 150%;
+}
+
+h4 {
+	font-family: 'Crimson Text', serif;
+	font-size: 110%;
+
+}
+.logoHead {
+	width:15% 
+}
+
+p { 
+	
+	font-family: 'Crimson Text', serif;
+   	font-weight: normal; 
+   	font-style: normal; 
+	font-size:  170%;
+	text-align: center;
+	
+
+}
+
+/*partie presentation entreprise*/
+
+.presentation{
+	font-family: 'Lovers Quarrel', cursive;
+}
+	
+	
+.debrief{color: DarkSlateGray;
+}
+
+.zoom.medium:hover{
+
+	max-width: 100%; 
+	margin: 0;
+}
+
+
+.carousel img{
+	height:100%;
+	border-radius: 20%;
+}
+
+
+.carousel{
+
+	border-radius: 50%;
+}
+
+
+.middle{
+	margin-top: 30%
+}
+
+#sidenav-overlay{
+	position: fixed;
+	left: 300px;
+}
+.logolink {
+	
+	height: 80%;
+	width: 55%;
+	
+}
+
+.logolinkyt {
+	
+	height: 100%;
+	width: 100%;
+	
+}
+
+i.small{
+	color: black;
+}
+
+.separation {
+
+	background-color: transparent;
+	box-shadow: none;
+}
+
+.drapeau-flag{
+	position: fixed;
+    top: 15px;
+    right: 0px;
+}
+
+
+nav .logolinkyt {
+	margin-top: 10px;
+	max-width: 80px;
+	max-height: 80px;
+}
+
+.insta {
+	margin-top: 10px;
+	max-width: 40px;
+	max-height: 40px;
+}
+
+.logolinkfb {
+	margin-top: 10px;
+	max-width: 40px;
+	max-height: 40px;
+}
